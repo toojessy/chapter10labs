@@ -3,7 +3,7 @@
 public class DanceRoutine {
   private Boohbah[] boohbahs;
   
-  public DanceRoutine(Boohbah[] boohbas) {
+  public DanceRoutine(Boohbah[] boohbahs) {
       this.boohbahs = boohbahs;
   }
   
