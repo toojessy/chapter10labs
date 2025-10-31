@@ -33,5 +33,8 @@ public class DanceRoutine {
             base.reverse();
             return base.toString();
         }
-}
 
+        // DANCE TEST PRINT STATEMENTS
+        System.out.println("Remixed Routine:");
+        System.out.println(routine.remixRoutine());
+}
